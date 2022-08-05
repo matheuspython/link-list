@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <a :href="item.href">
+    <a target="_blank" :href="item.href">
       <img :src="item.img" alt="item do serviço" />
     </a>
     <span>
