@@ -2,21 +2,21 @@
     {
         "titulo": "GitHub",
         "img"   : "https://github.githubassets.com/images/modules/logos_page/Octocat.png",
-        "href"  : "https://github.com/yurimarcon"
+        "href"  : "https://github.com/matheuspython"
     },
     {
         "titulo": "YouTube",
         "img"   : "https://cdn-icons-png.flaticon.com/512/1076/1076995.png",
-        "href"  : "https://www.youtube.com/channel/UCtGTyjWw15xNi_dcQHEiZuA"
+        "href"  : "https://www.youtube.com/channel/UCE8_VHiZPTxcuYIwhwZv55w"
     },
     {
         "titulo": "Linkedin",
         "img"   : "https://cdn-icons-png.flaticon.com/512/174/174857.png",
-        "href"  : "https://www.linkedin.com/in/yurimarcon/"
+        "href"  : "https://www.linkedin.com/in/matheus-souza-b0a8731b8/"
     },
     {
         "titulo": "Instagram",
         "img"   : "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
-        "href"  : "https://www.instagram.com/yurierikmarcon/"
+        "href"  : "https://www.instagram.com/programadorautodidata/"
     }
 ]
