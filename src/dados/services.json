@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "GitHub",
+        "img"   : "https://github.githubassets.com/images/modules/logos_page/Octocat.png",
+        "href"  : "https://github.com/yurimarcon"
+    },
+    {
+        "titulo": "YouTube",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/1076/1076995.png",
+        "href"  : "https://www.youtube.com/channel/UCtGTyjWw15xNi_dcQHEiZuA"
+    },
+    {
+        "titulo": "Linkedin",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+        "href"  : "https://www.linkedin.com/in/yurimarcon/"
+    },
+    {
+        "titulo": "Instagram",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+        "href"  : "https://www.instagram.com/yurierikmarcon/"
+    }
+]
